@@ -1,1 +1,71 @@
+/* Global Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    background-color: #f8f9fa;
+    padding-left: 260px; /* Space for fixed sidebar */
+}
+
+/* Sidebar */
+#sideNav {
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    background-color: #0066cc;
+    text-align: center;
+    color: white;
+    padding-top: 2rem;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#sideNav .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+/* Section Spacing */
+.resume-section {
+    padding: 4rem 2rem;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Section Headings */
+.resume-section-heading {
+    font-size: 1.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+    color: #0066cc;
+}
+
+/* Subheadings */
+.subheading {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #555;
+}
+
+/* Skills list with icons */
+.fa-ul {
+    padding-left: 1.5rem;
+}
+
+.fa-li {
+    color: #0066cc;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        padding-left: 0;
+    }
+
+    #sideNav {
+        position: relative;
+        width: 100%;
+        height: auto;
+    }
+}
 
