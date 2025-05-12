@@ -1,12 +1,10 @@
-# Elizabeth Rani M - Resume
+# Elizabeth Rani M. – Personal Portfolio
 
-This is a personal resume website built with the [Start Bootstrap Resume Theme](https://startbootstrap.com/theme/resume/). It includes customized sections for education, skills, and experience.
+This is a simple and elegant personal portfolio website for **Elizabeth Rani M**, a final-year MCA student passionate about Android development and data science.
 
-## Preview
+## 🌐 Live Preview
 
-[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)
+Coming Soon – You can upload this site to [GitHub Pages](https://pages.github.com/) or any static hosting platform.
 
-## Based on
+## 📁 Project Structure
 
-- [Start Bootstrap Resume](https://startbootstrap.com/theme/resume/)
-- License: MIT
