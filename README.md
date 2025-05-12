@@ -1,25 +1,42 @@
-# Elizabeth Rani M. – Personal Portfolio
+# Elizabeth Rani M. – Portfolio Website
 
-  I am a passionate MCA student from Sarah Tucker College, Tamil Nadu, with interests in Android development and data science.
-      I enjoy building mobile apps and learning new technologies like Firebase, MongoDB, and GitHub version control.
+Hi! I'm **Elizabeth Rani M.**, a final-year MCA student from Sarah Tucker College, Tirunelveli, Tamil Nadu.
 
-## 🌐 Live Preview
+This is my personal portfolio website where you can learn more about me, my projects, my skills, and how to contact me. I am passionate about Android development and data science and enjoy building apps that make a difference.
 
-Coming Soon – You can upload this site to [GitHub Pages](https://pages.github.com/) or any static hosting platform.
+## 🌟 About Me
 
-## 📁 Project Structure
+- 🎓 MCA Final Year Student  
+- 📍 Sarah Tucker College, Tirunelveli  
+- 👩‍💻 Passionate about Android development, Firebase, and data science  
+- 💡 I love working with Java, MongoDB, and UI/UX design
 
+## 📱 Projects
 
-## 🚀 Technologies Used
+### 🔹 LYNX Centre – Empowering Students
+An Android app created to empower students with login, dashboard, and Google Sign-In integration.  
+[🔗 View on GitHub](https://github.com/yourusername/lynx-centre)
 
-- HTML5
-- CSS3
-- Responsive Design
-- GitHub Hosting (optional)
+### 🔹 Attendance System
+An Android Studio project built using Java to manage and track student attendance efficiently.
 
-## 📬 Contact
+## 🛠 Skills
 
-- **Email:** elizabeth.rani@example.com  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- Android Studio (Java)
+- Firebase & MongoDB
+- HTML, CSS, GitHub
+- Basic UI/UX Design
 
+## 🎓 Education
 
+- **MCA** – Sarah Tucker College, Tirunelveli *(2023–2025)*  
+- **BCA** – Government Arts and Science College, Sathankulam *(2019–2022)*
+
+## 📬 Contact Me
+
+- ✉️ Email: elizabeth.rani@example.com  
+- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+© 2025 Elizabeth Rani M.
