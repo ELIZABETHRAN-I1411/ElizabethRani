@@ -41,21 +41,11 @@ Google Sign-In SDK
 #### 📌 Purpose:
 The app aims to enhance communication between students and academic management while promoting self-service features. It's scalable for future modules like attendance, grades, and notifications.
 
-![LYNX Centre Screenshot](/Users/elizabethrani/Desktop/Elizabeth/dashpoard.png)
-
----
-
-### 🔹 Attendance System
-An Android Studio project built using Java to manage and track student attendance efficiently.
-
----
 
 ### 🔹 Weapon Detection System
 A real-time weapon detection project using machine learning and computer vision.  
 It can detect potential weapons in live video feeds to enhance public safety and alert security systems.  
 Tech used: Python, OpenCV, TensorFlow.
-
-![Weapon Detection Screenshot](images/weapon-detection.png)
 
 ## 🛠 Skills
 
