@@ -14,11 +14,11 @@ This is my personal portfolio website where you can learn more about me, my proj
 ## 📱 Projects
 
 ### 🔹 LYNX Centre – Empowering Students
-## Overview:
+#### Overview:
 
 LYNX Centre is an Android mobile application designed to support and empower students by providing them with easy access to essential features like login, dashboards, and Google Sign-In integration. The app streamlines user authentication and gives a personalized experience to every student.
 
-## 🔧 Key Features:
+#### 🔧 Key Features:
 🔐 Secure Login System using Firebase Authentication
 
 📊 Student Dashboard with personalized information
@@ -29,18 +29,16 @@ LYNX Centre is an Android mobile application designed to support and empower stu
 
 💬 Clean, modern UI for intuitive navigation
 
-## 🛠 Technologies Used:
+#### 🛠 Technologies Used:
 Android Studio
 
 Java
 
 Firebase Authentication & Realtime Database
 
-Material Design UI
-
 Google Sign-In SDK
 
-## 📌 Purpose:
+#### 📌 Purpose:
 The app aims to enhance communication between students and academic management while promoting self-service features. It's scalable for future modules like attendance, grades, and notifications.
 
 ![LYNX Centre Screenshot](/Users/elizabethrani/Desktop/Elizabeth/dashpoard.png)
@@ -74,8 +72,8 @@ Tech used: Python, OpenCV, TensorFlow.
 
 ## 📬 Contact Me
 
-- ✉️ Email: elizabeth.rani@example.com  
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- ✉️ Email: elizabethrani1411@gmail.com  
+- 💻 GitHub: [github.com/yourusername](https://github.com/ELIZABETHRANI-|1411/ElizabethRani/main/README.md)
 
 ---
 
