@@ -1,6 +1,7 @@
 # Elizabeth Rani M. – Personal Portfolio
 
-This is a simple and elegant personal portfolio website for **Elizabeth Rani M**, a final-year MCA student passionate about Android development and data science.
+  I am a passionate MCA student from Sarah Tucker College, Tamil Nadu, with interests in Android development and data science.
+      I enjoy building mobile apps and learning new technologies like Firebase, MongoDB, and GitHub version control.
 
 ## 🌐 Live Preview
 
