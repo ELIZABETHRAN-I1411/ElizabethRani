@@ -14,9 +14,34 @@ This is my personal portfolio website where you can learn more about me, my proj
 ## 📱 Projects
 
 ### 🔹 LYNX Centre – Empowering Students
-An Android app created to empower students with login, dashboard, and Google Sign-In integration.  
-[🔗 View on GitHub](https://github.com/yourusername/lynx-centre)
+Overview:
 
+LYNX Centre is an Android mobile application designed to support and empower students by providing them with easy access to essential features like login, dashboards, and Google Sign-In integration. The app streamlines user authentication and gives a personalized experience to every student.
+
+🔧 Key Features:
+🔐 Secure Login System using Firebase Authentication
+
+📊 Student Dashboard with personalized information
+
+🧩 Google Sign-In for faster access
+
+📅 Future-ready design for features like attendance tracking, announcements, and resources
+
+💬 Clean, modern UI for intuitive navigation
+
+🛠 Technologies Used:
+Android Studio
+
+Java
+
+Firebase Authentication & Realtime Database
+
+Material Design UI
+
+Google Sign-In SDK
+
+📌 Purpose:
+The app aims to enhance communication between students and academic management while promoting self-service features. It's scalable for future modules like attendance, grades, and notifications.
 ![LYNX Centre Screenshot](/Users/elizabethrani/Desktop/Elizabeth/dashpoard.png)
 
 ---
