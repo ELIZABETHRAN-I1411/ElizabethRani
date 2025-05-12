@@ -17,7 +17,7 @@ This is my personal portfolio website where you can learn more about me, my proj
 An Android app created to empower students with login, dashboard, and Google Sign-In integration.  
 [🔗 View on GitHub](https://github.com/yourusername/lynx-centre)
 
-![LYNX Centre Screenshot](images/lynx-centre.png)
+![LYNX Centre Screenshot](/Users/elizabethrani/Desktop/Elizabeth/dashpoard.png)
 
 ---
 
