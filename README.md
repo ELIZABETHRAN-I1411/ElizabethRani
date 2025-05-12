@@ -9,16 +9,16 @@ This is my personal portfolio website where you can learn more about me, my proj
 - 🎓 MCA Final Year Student  
 - 📍 Sarah Tucker College, Tirunelveli  
 - 👩‍💻 Passionate about Android development, Firebase, and data science  
-- 💡 I love working with Java, MongoDB, and UI/UX design
+- 💡 I love working with Java, MongoDB, HTML, css and UI/UX design 
 
 ## 📱 Projects
 
 ### 🔹 LYNX Centre – Empowering Students
-Overview:
+## Overview:
 
 LYNX Centre is an Android mobile application designed to support and empower students by providing them with easy access to essential features like login, dashboards, and Google Sign-In integration. The app streamlines user authentication and gives a personalized experience to every student.
 
-🔧 Key Features:
+## 🔧 Key Features:
 🔐 Secure Login System using Firebase Authentication
 
 📊 Student Dashboard with personalized information
@@ -29,7 +29,7 @@ LYNX Centre is an Android mobile application designed to support and empower stu
 
 💬 Clean, modern UI for intuitive navigation
 
-🛠 Technologies Used:
+## 🛠 Technologies Used:
 Android Studio
 
 Java
@@ -40,8 +40,9 @@ Material Design UI
 
 Google Sign-In SDK
 
-📌 Purpose:
+## 📌 Purpose:
 The app aims to enhance communication between students and academic management while promoting self-service features. It's scalable for future modules like attendance, grades, and notifications.
+
 ![LYNX Centre Screenshot](/Users/elizabethrani/Desktop/Elizabeth/dashpoard.png)
 
 ---
