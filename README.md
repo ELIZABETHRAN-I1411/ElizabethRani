@@ -8,3 +8,19 @@ Coming Soon – You can upload this site to [GitHub Pages](https://pages.github.
 
 ## 📁 Project Structure
 
+
+## 🚀 Technologies Used
+
+- HTML5
+- CSS3
+- Responsive Design
+- GitHub Hosting (optional)
+
+## 📬 Contact
+
+- **Email:** elizabeth.rani@example.com  
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
+## 📝 License
+
+This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
