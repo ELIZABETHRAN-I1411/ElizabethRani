@@ -8,8 +8,8 @@ This is my personal portfolio website where you can learn more about me, my proj
 
 - 🎓 MCA Final Year Student  
 - 📍 Sarah Tucker College, Tirunelveli  
-- 👩‍💻 Passionate about Android development, Firebase, and data science  
-- 💡 I love working with Java, MongoDB, HTML, css and UI/UX design 
+- 👩‍💻 Passionate about Web Design, Android development, Firebase, and data science  
+- 💡 I love working with Java, Python, SQL, MongoDB, HTML, css and UI/UX design 
 
 ## 📱 Projects
 
