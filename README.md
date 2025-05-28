@@ -30,11 +30,11 @@ LYNX Centre is an Android mobile application designed to support and empower stu
 💬 Clean, modern UI for intuitive navigation
 
 #### 🛠 Technologies Used:
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo">
 
 Android Studio
 
-Java
+Java  <img src="https://www.iconfinder.com/icons/4373217/java_logo_logos_icon" >
+
 
 Firebase Authentication & Realtime Database
 
