@@ -59,7 +59,7 @@ Tech used: Python, OpenCV, TensorFlow.
 ## 🎓 Education
 
 - **MCA** – Sarah Tucker College, Tirunelveli *(2023–2025)*  
-- **BCA** – Government Arts and Science College, Sathankulam *(2019–2022)*
+- **Bsc.CS** – Government Arts and Science College, Sathankulam *(2019–2022)*
 
 ## 📬 Contact Me
 
