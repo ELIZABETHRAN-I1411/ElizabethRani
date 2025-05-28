@@ -33,8 +33,7 @@ LYNX Centre is an Android mobile application designed to support and empower stu
 
 Android Studio
 
-Java  <img src="https://www.iconfinder.com/icons/4373217/java_logo_logos_icon" >
-
+Java  
 
 Firebase Authentication & Realtime Database
 
