@@ -4,8 +4,6 @@
             Hi, I’m Eliza, a recent MCA graduate passionate about building clean, efficient, and user-friendly applications. With a strong grounding in Python, Java, HTML, and CSS, I’ve successfully completed several academic projects that shaped me into both an effective team player and a capable leader. These experiences taught me adaptability and the art of staying calm under pressure. Please explore my projects and my skills through this portfolio to see how I turn concepts into reality.
         </p>
 
-Hi! I'm **Elizabeth Rani M..**, a final-year MCA student from Sarah Tucker College, Tirunelveli, Tamil Nadu.
-
 This is my personal portfolio website where you can learn more about me, my projects, my skills, and how to contact me. I am passionate about Android development and data science and enjoy building apps that make a difference.
 
 ## 🌟 About Me
