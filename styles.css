@@ -1,52 +1,351 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  line-height: 1.6;
-  background: #f9f9f9;
-  color: #333;
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+nav{
+    height: 15vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10%;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+
+}
+nav>h1{
+    font-size: 50px;
+    font-weight: 70px;
+}
+nav>button{
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+}
+nav>ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+}
+ul>li{
+      list-style: none; 
+      position: relative;  
+}
+ul>li>a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform:uppercase;
+}
+ul>li::after{
+    content: "";
+    height: 4px;
+    width: 0%;
+    position: absolute;
+    background-color: white;
+    border-radius: 4px;
+    bottom: -5px;
+    left: 0;
+    transition:width 0.7s ease-in;
+}
+ul>li:hover::after{
+  width: 100%;
+}
+main{
+    min-height: 100vh;
+    background-color: rgb(15, 14, 14);
+    color: #f6f3f3;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10%;
+}
+main> .left{
+    flex-basis: 55%;
+
+}
+main> .right{
+    flex-basis: 45%;
+}
+main>.left>h3{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+main>.left>h1{
+    font-size: 70px;
+    margin-bottom: 30px;
+    animation: typing 3s infinite steps(10) alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 1px solid ;
 }
 
-header {
-  background: #005792;
-  color: white;
-  padding: 2rem;
-  text-align: center;
+@keyframes typing{
+    from{
+        width: 0ch;
+    }
+    to{
+        width: 17ch;
+    }
 }
 
-section {
-  padding: 1.5rem;
-  max-width: 800px;
-  margin: auto;
+main>.left>h2{
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+main>.left>p{
+    font-size: 24px;
+    width: 70%;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+main>.left>button{
+    padding: 20px 10px;
+    width:30%;
+    border-radius:50px;
+    font-size: 23px;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+main>.right>img{
+    width: 70%;
+   object-fit: contain;
+   border-radius: 50%;
+}
+main>.left span{
+    color: rgb(168, 168, 10);
 }
 
-h2 {
-  color: #005792;
-  border-bottom: 2px solid #ccc;
-  padding-bottom: 0.5rem;
-  margin-top: 2rem;
+/* about */
+#about{
+    padding:100px 10%;
+    background-color: #111;
+    color: white;
 }
 
-ul {
-  padding-left: 1.2rem;
+#about>h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 60px;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
 }
 
-ul li {
-  margin-bottom: 1rem;
+#about>p{
+    font-size: 19px;
+    color: #ccc;
+    width: 70%;
+    text-align: center;
+    margin: 0px auto;
 }
 
-a {
-  color: #005792;
-  text-decoration: none;
+
+#about>.card{
+    background-color: #222;
+    width: 80%;
+    margin: 30px auto;
+    padding: 15px 25px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease-in;
 }
 
-a:hover {
-  text-decoration: underline;
+#about>.card>h2{
+    text-transform :capitalize;
+    letter-spacing:3px ;
+    margin-bottom: 8px;
+    font-size: 35px;
 }
 
-footer {
-  text-align: center;
-  padding: 1rem;
-  background: #eee;
-  margin-top: 2rem;
+
+#about>.card:hover{
+    box-shadow: 0px 5px 8px #f4d72f;
+    transform: scale(1.04);
+
 }
+
+
+/* project sesion */
+
+#project{
+    background-color: #111;
+    padding: 100px 10%;
+    color: white;
+}
+
+.inner>.projectcard{
+    /* background-color: red; */
+    width: 350px;
+    height: 450px;
+    object-fit: cover;
+    border-radius: 20px;
+    cursor: pointer;
+    overflow: scroll;
+    transition: all0.3s ease-in;
+    
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+.projectcard>img{
+    height: 40%;
+    width: 100%;
+
+}
+#project>h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 60px;
+    letter-spacing: 1.4px;
+    margin-bottom: 20px;
+
+}
+
+#project>p{
+    text-align: center;
+    font-size: 10px;
+    color: #ccc;
+    margin-bottom: 30px;
+}
+
+#project>.inner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 30px;
+}
+
+.projectcard>h3{
+    margin: 17px;
+    text-transform: capitalize;
+    color: #f4d72f;
+}
+
+.projectcard>p{
+    margin: 0px 15px;
+    margin: 0px 15px;
+    color: #ddd;
+
+}
+
+.projectcard:hover{
+    transform: translateY(-6px) scale(1.03);
+}
+
+
+
+/* contact section style */
+
+.contact{
+    padding: 100px 10%;
+    background-color: #111;
+    color: white;
+}
+
+.contact>h1{
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 1.4px;
+    margin-bottom: 30px;
+}
+
+.contact>p{
+    text-align: center;
+    font-size: 19px;
+    margin-bottom: 25px;
+    color: #ccc;
+}
+
+.contact>form{
+    background-color: #222;
+    width: 70%;
+    margin: 0px auto;
+    padding: 15px 25px;
+    border-radius: 15px;
+}
+
+
+.contact>form>input{
+    display: block;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #333;
+    border-radius: 10px;
+    border: none;
+}
+
+.contact>form>textarea{
+    width: 100%;
+    display: block;
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    margin-bottom: 10px;
+    height: 100px;
+    resize: none;
+}
+
+.contact>form>button{
+    padding: 15px 25px;
+    border-radius: 10px;
+    background-color: white;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1.3px;
+    display: block;
+    margin: 0px auto;
+}
+
+footer{
+    height: 70px;
+    background-color: #111;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+@media(max-width:900px){
+    main>ul{
+        display: none;
+    }
+
+    main{
+        flex-direction: column;
+    }
+
+    #project>.inner{
+        justify-content: center;
+    }
+    #about>.card{
+        width: 100%;
+    }
+    h1{
+        font-size: 9px;    
+    }
+    h2{
+        font-size: 14px;
+    }
+}
+
+
+
